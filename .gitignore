@@ -8,3 +8,12 @@ Thumbs.db
 
 # Escopos fornecidos localmente (não versionar)
 atividades/
+
+# Projeto de referência local (não versionar)
+base/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
